@@ -1,0 +1,10 @@
+{
+    "cost_items": ["socks", "shoes"],
+    "tax_rate": 0.09,
+    "dictionary_entries": [
+      {"key": "Apple", "value": "A fruit"}
+    
+    ],
+    "words_to_form": ["yoda", "best", "has"]
+  }
+  
